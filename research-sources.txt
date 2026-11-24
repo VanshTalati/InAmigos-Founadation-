@@ -1,0 +1,27 @@
+Research notes – InAmigos Foundation
+Checked: 22 November 2026
+
+Primary sources:
+1. Official homepage: https://inamigosfoundation.org.in/
+   Lists the foundation's background, six initiatives, homepage figures, events and contact details.
+2. Official About Us: https://inamigosfoundation.org.in/page/About-Us
+   Describes the six projects and includes project-specific impact claims.
+3. Official blog: https://inamigosfoundation.org.in/blog
+   Contains articles about initiatives including Vikas, Udaan, Jeev and Bachpanshala.
+4. Instagram: https://www.instagram.com/inamigosiaf/
+5. LinkedIn: https://www.linkedin.com/company/inamigos-foundation/
+
+Content handling:
+- Project summaries in the webpage are paraphrases, not copied campaign posts.
+- Homepage figures (200 volunteers, 28 states, 6 causes, 50,000 beneficiaries) are attributed
+  as figures published by the foundation. Confirm dates and methodology with the NGO.
+- About page claims such as meals/clothing distributed, saplings planted, interns trained
+  and animals fed daily should not be mixed with homepage figures without confirming the
+  reporting period and definitions.
+- Event examples displayed are dated 2025 and are clearly presented as past events.
+- Use of photographs from the official website/social accounts requires permission or
+  confirmation that reuse is allowed. Placeholder blocks are provided until approved
+  images are supplied.
+- Verify the volunteer form URL before publishing. Do not publish placeholder URLs.
+- The official homepage crawl showed unrelated spam-style outbound links in its page
+  content. This should be flagged to the internship coordinator/site administrator.
